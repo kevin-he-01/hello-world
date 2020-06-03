@@ -2,3 +2,4 @@ This is my new plaintext file.
 Modified
 Modified by WSL
 Testing Access token
+Does reinstalling Git invalidate tokens?
