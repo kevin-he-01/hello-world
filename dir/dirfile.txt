@@ -1,6 +1,11 @@
 This is my new plaintext file.
 Modified
 Modified by WSL
+
+** Some big modifications **
+
 Testing Access token
 Does reinstalling Git invalidate tokens?
 Another line
+
+// A line of comment
